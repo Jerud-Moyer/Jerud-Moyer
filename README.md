@@ -7,8 +7,8 @@ Someday I'd really like to do more travelling and there are many home improvemen
 
 
 
-*I am not a chef. Cook may be a better title.
-please visit [jerud-moyer.dev] (https://jerud-moyer.dev/)
+#### *I am not a chef. Cook may be a better title.
+#### please visit [jerud-moyer.dev](https://jerud-moyer.dev/)
 <!--
 **Jerud-Moyer/Jerud-Moyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
